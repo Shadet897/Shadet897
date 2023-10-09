@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shadet897
-- I am learing to code, currently only in Java
-    some HTML and CSS experience
+- I know Java, HTML, CSS and a bit of C++ and javaScript
 - 👀 I’m interested in ...
--   games, football, gamedevelopment
+-   games, football, game development, Working out
 
 
 <!---
