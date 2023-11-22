@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadet897
-- I know Java, HTML, CSS and a bit of C++ and javaScript
+- I know Java, HTML, CSS and a bit of C++ and javaScript and I am currently learning C#
 - 👀 I’m interested in ...
 -   games, football, game development, Working out
 
